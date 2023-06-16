@@ -6,13 +6,15 @@
   "scripts": {
     "compile": "tsc",
     "start": "node ./build/src/main.js",
-    "clean": "rm -rf ./build"
+    "clean": "rm -rf ./build",
+    "format": "prettier --write \"src/**/*.ts\""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.3.1",
+    "prettier": "2.8.8",
     "typescript": "^5.1.3"
   }
 }
