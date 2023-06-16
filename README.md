@@ -1,6 +1,6 @@
 # TypeScript Starter Kit
 
-## This starter kit provides a basic setup for any TypeScript project with tsc (TypeScript compiler) and prettier (code formatter). It includes a sample package.json file to help you get started quickly.
+### This starter kit provides a basic setup for any TypeScript project with tsc (TypeScript compiler) and prettier (code formatter). It includes a sample package.json file to help you get started quickly.
 
 ### How to use this starter kit?
 
